@@ -77,8 +77,7 @@ p{
 }
 .bottom-cloud{
     position: absolute;
-    left: 300px;
-    bottom: 400px;
+    width:15%;
 }
 
 .code-img{
